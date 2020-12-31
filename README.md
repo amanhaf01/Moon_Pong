@@ -8,14 +8,14 @@ HOW TO DOWNLOAD: Download the file by clicking on the GREEN "Code" buttom above.
 INSTRUCTIONS/ HOW TO PLAY: Player 1 uses keyboard keys 'w' to move up and 's' to move down. Player 2 uses the keyboard keys 'up' to move up and 'down' to move down. Press enter to move on from the Title Screen. Player 1 serves by pressing enter, and Player 2 should move there spaceship up or down to block and send the ball back. If the ball crosses the screen Player 1 will get a point. First one to 10 points wins! 
 
 This is what the Title Screen looks like, which the game story. 
-![Start]()
+![Start](TitleScreen.PNG)
 
 The next two shots are gameplay
-![Game]()
-![Game2]()
+![Game](MoonPong2.PNG)
+![Game2](MoonPong3.PNG)
 
 This is what it looks like if Player 1 wins
-![End]()
+![End](MoonPong4.PNG)
 
 Version 1
 
